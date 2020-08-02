@@ -1,6 +1,9 @@
+from Deck import Deck
 if __name__ == '__main__' :
-    print('test')
-    pass
+    d = Deck()
+    d._create_deck()
+
+
 
 
 
